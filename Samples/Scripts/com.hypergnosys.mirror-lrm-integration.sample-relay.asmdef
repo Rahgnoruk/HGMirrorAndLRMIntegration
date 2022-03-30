@@ -1,7 +1,10 @@
 {
-    "name": "com.hypergnosys.mirror-lrm-integration",
+    "name": "com.hypergnosys.mirror-lrm-integration.sample-relay",
     "rootNamespace": "",
-    "references": [],
+    "references": [
+        "GUID:30817c1a0e6d646d99c048fc403f5979",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
