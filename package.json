@@ -1,0 +1,23 @@
+{
+    "name": "com.hypergnosys.mirror-lrm-integration",
+    "version": "1.0.0",
+    "displayName": "HGMirrorAndLRMIntegration",
+    "description": " Solution to create a multiplayer lobby using Mirror and LRM transport with HG Code Base tools",
+    "unity": "2020.3",
+    "unityRelease": "11f1",
+    "documentationUrl": "https://github.com/Rahgnoruk/HGMirrorAndLRMIntegration",
+    "changelogUrl": "https://github.com/Rahgnoruk/HGMirrorAndLRMIntegration",
+    "licensesUrl": "https://github.com/Rahgnoruk/HGMirrorAndLRMIntegration",
+    "keywords": [
+      "HyperGnosys",
+      "Mirror Networking",
+      "Light Reflective Mirror"
+    ],
+    "author": {
+      "name": "Sergio Raimond",
+      "email": "sergio.raimond@hypergnosys.com",
+      "url": "https://www.hypergnosys.com"
+    },
+    "dependencies": {
+    }
+  }
